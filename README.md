@@ -1,2 +1,2 @@
 # CITO
-roguelike citystate of the invincible overlord
+roguelike of Citystate of the Invincible Overlord
