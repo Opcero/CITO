@@ -1,4 +1,4 @@
-# CITO
+# CSIO
 roguelike of Citystate of the Invincible Overlord
 
 My goal is to recreate the proceedural elements of the citystate using python.
